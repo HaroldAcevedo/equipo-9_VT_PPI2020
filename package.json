@@ -6,7 +6,7 @@
     "react",
     "starter"
   ],
-  "main": "Fronted-Nutricion/src/index.js",
+  "main": "Fronted_Nutricion/src/index.js",
   "dependencies": {
     "bootstrap": "4.5.2",
     "jquery": "3.5.1",
