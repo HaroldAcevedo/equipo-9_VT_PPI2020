@@ -1,5 +1,0 @@
-language = "nodejs"
-#run = "cd Fronted_Nutricion && npm i react-scripts"
-#run = "cd Fronted_Nutricion && npm start"
-run = "cd Backend_Nutricion && npm i morgan nodemon express mysql"
-#run = "cd Backend_Nutricion && npm int -y "
