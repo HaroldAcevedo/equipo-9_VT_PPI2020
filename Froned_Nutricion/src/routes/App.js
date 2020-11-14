@@ -7,14 +7,13 @@ import EjerciciosNA from "../EjerciciosNA";
 import EjerciciosNP from "../EjerciciosNP";
 import EjerciciosNL from "../EjerciciosNL";
 import Recetas from "../Recetas";
-import dataPricing from "../dataPricing";
 
 class App extends React.Component {
   render() {
     return (
       <BrowserRouter>
         <Switch>
-          <Route exact path="/datapricing" component={dataPricing} />
+      
           <Route exact path="/" component={Home} />
           <Route exact path="/Integrantes" component={Integrantes} />
           <Route exact path="/EjerciciosNA" component={EjerciciosNA} />
