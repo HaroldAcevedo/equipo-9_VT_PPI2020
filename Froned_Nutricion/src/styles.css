@@ -11,7 +11,7 @@ body {
 .titulo {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  color: blue;
+  color: red;
   margin: 0px;
   vertical-align: 1000px;
   font-size: 400%;
@@ -35,7 +35,7 @@ body {
 .menu > li > a {
   display: block;
   padding: 15px 20px;
-  color: rgb(0, 247, 255);
+  color: rgb(51, 255, 255);
   text-decoration: none;
   font-family: "Times New Roman", Times, serif;
 }
@@ -102,7 +102,7 @@ img {
 h1 {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  color: black;
+  color: rgb(255, 255, 254);
   font-size: 195%;
 }
 
@@ -116,13 +116,13 @@ h1 {
   object-fit: cover;
   vertical-align: top;
   text-align: center;
-  color: blue;
+  color: red;
   font-size: 300%;
 }
 
 h2 {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  color: black;
+  color: white;
   font-size: 100%;
 }
